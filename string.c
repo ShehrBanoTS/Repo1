@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/*
 size_t my_strlen(char *s)
 {
    char *p = s;
@@ -8,7 +8,7 @@ size_t my_strlen(char *s)
       ++p;
 
    return (p - s);
-}
+}     */
 
 int main(void)
 {
